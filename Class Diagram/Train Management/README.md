@@ -14,4 +14,4 @@ The System developed should contain following features:<ol>
 <li>Based on the availability of tickets the ticket has to be issued. The ticked issued should contain the following information’s PNR NO, Train No, Date, K.M., no of adults and children, Ticket No, Class, Ticket No, Coach, Seat/Berth, Sex, Age, Reservation fee, Total Cash, Train Name, Departure time.</li>
 <li>Cancellation of booked tickets should be available.</li>
 <br>
-<img src="https://user-images.githubusercontent.com/46771415/94181806-9fb5fe80-febd-11ea-897d-753d0dcab7c3.jpg" alt="Train Management System Diagram" height="100%" width="100%">
+<img src="https://user-images.githubusercontent.com/46771415/94181806-9fb5fe80-febd-11ea-897d-753d0dcab7c3.jpg" alt="Train Management System Diagram" height="75%" width="75%">
