@@ -10,3 +10,6 @@ Draw detailed Activity diagram of Hospital Management System for the following:
 8. As per doctor diagnoses the patient, gives treatment and gives suggestions to patients and prescribe laboratory tests and medicines. 
 9. This system also takes care of medical equipment, doctor visit, vitals recording, patient case sheet, diet ordering, blood requisition, transfer information and discharge information, maintenance of wards, inter and intra wards transfers also it generates patient’s discharge summary which includes patients health at the time of discharge, medical history, various diagnosis and drug prescriptions, history of patients illness and course in hospital. 
 10. Patient can pay bill through credit card, cash or cheque whose information is maintained by this system.
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/46771415/96754574-1d9ef400-13ef-11eb-9fad-c191c55e3907.jpg" alt="Hospital Management Diagram">
